@@ -21,8 +21,8 @@
 }
 
 @media (max-width:768px) {
-.main-image { text-align: center;
-}
+  .main-image { text-align: center;
+  }
 }
 
 .centered-main-page-element {
