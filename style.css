@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.main-image__link {
+.aaa .more_inf {
   font-family: fantasy, cursive;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 }
 
-.list-of-all-tasks {
+.centered-main-page-element {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -157,11 +157,11 @@ ul li input[type=text] {
   display:none
 }
 
-ul li.edit-mode input[type=text] {
+ul li.editMode input[type=text] {
   display:inline-block;
   width:224px
 }
 
-ul li.edit-mode label {
+ul li.editMode label {
   display:none;
 }
