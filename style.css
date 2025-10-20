@@ -5,18 +5,18 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.main-image {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.main-image img {
   width: 100%;
 }
 
-.aaa .more_inf {
+.main-image__link {
   font-family: fantasy, cursive;
 }
 
@@ -157,11 +157,11 @@ ul li input[type=text] {
   display:none
 }
 
-ul li.editMode input[type=text] {
+ul li.edit-mode input[type=text] {
   display:inline-block;
   width:224px
 }
 
-ul li.editMode label {
+ul li.edit-mode label {
   display:none;
 }
